@@ -21,13 +21,13 @@
   ],
   "author": "Your Name <your.email@example.com>",
   "license": "MIT",
-  "homepage": "https://github.com/yourusername/valai#readme",
+  "homepage": "https://github.com/v-checha/valai#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/valai/issues"
+    "url": "https://github.com/v-checha/valai/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/valai.git"
+    "url": "git+https://github.com/v-checha/valai.git"
   },
   "type": "module",
   "main": "./dist/index.cjs",
